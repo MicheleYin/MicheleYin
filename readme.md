@@ -21,17 +21,15 @@
 </p>
 </p>
 
-I'm currently a Master's Graduate of Artificial Intelligence Systems at the University of Trento 🤖
-
 Some relevant projects I did:
 
-- [Master's Thesis](https://github.com/BigEmperor26/Michele-Yin-Thesis)
+- [Master's Thesis](https://github.com/MicheleYin/Michele-Yin-Thesis)
 - [Let's give a Voice to Conversational Agents in VR](https://github.com/sislab-unitn/Let-s-Give-a-Voice-to-Conversational-Agents-in-VR) | [InterSpeech paper](https://www.isca-speech.org/archive/interspeech_2023/yin23b_interspeech.html)
 - [Domain Adapatation TACV](https://github.com/filippodaniotti/TACV-DA-project)
 - [Natural Language Understanding](https://github.com/BigEmperor26/NLU)
 - [Domain Adaptation CV](https://github.com/filippodaniotti/DL-domain-adaptation)
 - [Behaviour Trees OpenAI Gym](https://github.com/fedeizzo/comparison-NEAT-BT-on-OpenAI-Gyms)
-- [Huffman CODEC](https://github.com/BigEmperor26/HuffmanCODEC)
+- [Huffman CODEC](https://github.com/MicheleYin/HuffmanCODEC)
 - [Pixie - Javascript pixel art generator](https://pixie-alpha.vercel.app/)
 - Sudoku - Sudoku game with error checking
   - [App store](https://apps.apple.com/it/app/the-ultimate-sudoku-app/id6743371040)
@@ -52,8 +50,8 @@ Some relevant projects I did:
 </a> -->
 </p>
 <!-- -
-[![Anurag's GitHub stats](https://github-readme-stats-smoky-nine-37.vercel.app/api?username=BigEmperor26)](https://github.com/BigEmperor26/github-readme-stats)
-[![Top Langs](https://github-readme-stats-smoky-nine-37.vercel.app/api/top-langs/?username=BigEmperor26&layout=compact)](https://github.com/BigEmperor26/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats-smoky-nine-37.vercel.app/api?username=MicheleYin)](https://github.com/MicheleYin/github-readme-stats)
+[![Top Langs](https://github-readme-stats-smoky-nine-37.vercel.app/api/top-langs/?username=MicheleYin&layout=compact)](https://github.com/MicheleYin/github-readme-stats) -->
 
 <p align='center'>
   <a>
