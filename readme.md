@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/michele-yin-42a36a229/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/BigEmperor26/">
+  <a href="https://github.com/MicheleYin/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
   </a>&nbsp;&nbsp;
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a> &nbsp;&nbsp; -->
    <!-- </a>&nbsp;&nbsp;
-    <a href="https://BigEmperor26.github.io/">
+    <a href="https://MicheleYin.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img> -->
   </a> 
 </p>
