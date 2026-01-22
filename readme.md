@@ -59,7 +59,7 @@ Some relevant projects I did:
 </a>
 </p>
 <p align='center'>
-<a>
+<!-- <a>
   <img align="center" src="https://github.com/MicheleYin/micheleyin/blob/main/rimuru.jpeg" />
-</a>
+</a> -->
 </p>
