@@ -15,8 +15,8 @@
   </a> 
 </p>
 
-
-<!-- - [Master's Thesis](https://github.com/MicheleYin/Michele-Yin-Thesis)
+Some relevant projects I did:
+- [Master's Thesis](https://github.com/MicheleYin/Michele-Yin-Thesis)
 - [Let's give a Voice to Conversational Agents in VR](https://github.com/sislab-unitn/Let-s-Give-a-Voice-to-Conversational-Agents-in-VR) | [InterSpeech paper](https://www.isca-speech.org/archive/interspeech_2023/yin23b_interspeech.html)
 - [Domain Adapatation TACV](https://github.com/filippodaniotti/TACV-DA-project)
 - [Natural Language Understanding](https://github.com/BigEmperor26/NLU)
@@ -35,7 +35,7 @@
   - [Privacy Policy](https://palettica-landing-page.vercel.app)
 - Aurorabook - Epub audiobook generator
   - [App store](https://apps.apple.com/it/app/aurorabook/id6757122986)
-  - [Privacy policy](https://aurorabook-landing-page.vercel.app/#privacy) -->
+  - [Privacy policy](https://aurorabook-landing-page.vercel.app/#privacy)
 
 
 <p align='center'>
