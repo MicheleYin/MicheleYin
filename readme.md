@@ -7,22 +7,12 @@
   <a href="https://github.com/MicheleYin/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
   </a>&nbsp;&nbsp;
-
   <a href="mailto:mickyin3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
-  </a> 
-  <!-- <a href="mailto:mickyin3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
-  </a> &nbsp;&nbsp; -->
-   <!-- </a>&nbsp;&nbsp;
-    <a href="https://MicheleYin.github.io/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img> -->
-  </a> 
+  </a> &nbsp;&nbsp;
     <a href="https://portfolio-beige-xi-95.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge
-    "></img>
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge"></img>
   </a> 
-</p>
 </p>
 
 
