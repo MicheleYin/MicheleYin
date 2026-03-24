@@ -36,7 +36,9 @@ Some relevant projects I did:
 - Aurorabook - Epub audiobook generator
   - [App store](https://apps.apple.com/it/app/aurorabook/id6757122986)
   - [Privacy policy](https://aurorabook-landing-page.vercel.app/#privacy)
-
+- Typst Editor - Offline Typst Editor for IPad and Macos
+	- [App store](https://apps.apple.com/app/id6760779674)
+	- [Privacy Policy](https://typst-editor-landing-page.vercel.app/privacy)
 
 <p align='center'>
 <a href="#">
