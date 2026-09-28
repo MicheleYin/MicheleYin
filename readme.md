@@ -10,7 +10,7 @@
   <a href="mailto:mickyin3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a> &nbsp;&nbsp;
-    <a href="https://portfolio-beige-xi-95.vercel.app">
+    <a href="https://portfoli.micheleyin.org">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge"></img>
   </a> 
 </p>
@@ -23,23 +23,22 @@ Some relevant projects I did:
 - [Domain Adaptation CV](https://github.com/filippodaniotti/DL-domain-adaptation)
 - [Behaviour Trees OpenAI Gym](https://github.com/fedeizzo/comparison-NEAT-BT-on-OpenAI-Gyms)
 - [Huffman CODEC](https://github.com/MicheleYin/HuffmanCODEC)
-- [Pixie - Javascript pixel art generator](https://pixie-alpha.vercel.app/)
 - Sudoku - Sudoku game with error checking
   - [App store](https://apps.apple.com/it/app/the-ultimate-sudoku-app/id6743371040)
-  - [Privacy Policy](https://sudoku-app-landing-page.vercel.app)
+  - [Privacy Policy](https://sudoku.micheleyin.org)
 - Fading Tic Tic Toe - Tic Tac Toe with fading cells
   - [App store](https://apps.apple.com/it/app/fading-tris/id6744886617)
-  - [Privacy Policy](https://fading-tris-app-landing-page.vercel.app)
+  - [Privacy Policy](https://tictactoe.micheleyin.org)
 - Palettica - Palette generator app
   - [App store](https://apps.apple.com/it/app/palettica/id6748886851)
-  - [Privacy Policy](https://palettica-landing-page.vercel.app)
+  - [Privacy Policy](https://palettica.micheleyin.org)
 - Aurorabook - Epub audiobook generator
   - [App store](https://apps.apple.com/it/app/aurorabook/id6757122986)
-  - [Privacy policy](https://aurorabook-landing-page.vercel.app/#privacy)
+  - [Privacy policy](https://aurorabook.micheleyin.org)
   - [Github](https://github.com/MicheleYin/aurorabook)
 - Typst Editor - Offline Typst Editor for IPad and Macos
 	- [App store](https://apps.apple.com/app/id6760779674)
-	- [Privacy Policy](https://typst-editor-landing-page.vercel.app/privacy)
+	- [Privacy Policy](https://typst-editor.micheleyin.org)
 
 <p align='center'>
 <a href="#">
