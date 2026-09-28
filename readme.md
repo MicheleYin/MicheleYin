@@ -40,6 +40,9 @@ Some relevant projects I did:
 	- [App store](https://apps.apple.com/app/id6760779674)
 	- [Privacy Policy](https://typst-editor.micheleyin.org)
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 <p align='center'>
 <a href="#">
 ![Stats](./profile/stats.svg)
