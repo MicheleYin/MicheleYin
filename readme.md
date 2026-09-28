@@ -10,7 +10,7 @@
   <a href="mailto:mickyin3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a> &nbsp;&nbsp;
-    <a href="https://portfoli.micheleyin.org">
+    <a href="https://portfolio.micheleyin.org">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge"></img>
   </a> 
 </p>
