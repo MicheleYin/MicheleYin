@@ -42,7 +42,9 @@ Some relevant projects I did:
 
 <p align='center'>
 <a href="#">
-  <img align="center" src="https://github-readme-stats-five-blue-15.vercel.app/api?username=MicheleYin&theme=cobalt&show=prs_merged,prs_merged_percentage" />
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 </a>
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats-five-blue-15.vercel.app/api/top-langs/?username=MicheleYin&layout=compact&theme=cobalt&hide=jupyter%20notebook" />
