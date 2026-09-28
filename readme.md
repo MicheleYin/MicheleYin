@@ -40,14 +40,13 @@ Some relevant projects I did:
 	- [App store](https://apps.apple.com/app/id6760779674)
 	- [Privacy Policy](https://typst-editor.micheleyin.org)
 
-.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
-<p align='center'>
-<a href="#">
-![Stats](./profile/stats.svg)
-</a>
+<p align="center">
+  <img src="./profile/stats.svg" alt="Stats">
+  <img src="./profile/top-langs.svg" alt="Top Languages">
+  <img src="./profile/pin-stats-organization-github-readme-stats.svg" alt="Pinned">
 </p>
+
+
 <p align='center'>
   <a>
   <img align="center" src="https://github.com/MicheleYin/micheleyin/blob/output/github-contribution-grid-snake.svg" />
